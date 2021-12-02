@@ -28,6 +28,6 @@
 - Solidity
 	- スマートコントラクトを記述するためのプログラミング言語
 - ERC20
-	- FTの規格
+	- [FTの規格](https://eips.ethereum.org/EIPS/eip-20)
 - ERC721
-	- NFTの規格
+	- [NFTの規格](https://eips.ethereum.org/EIPS/eip-721)
