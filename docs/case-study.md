@@ -60,6 +60,12 @@
 - [nanakusa](https://sbinft.co.jp/#company): NFTマーケットプレイス `nanakusa` を提供
 
 ## NEM
+- New Economy Movementは独自のブロックチェーンを持つP2Pプラットフォーム
+- Pol（Proof of Importance)によって合意形成をしている
+- ノードの消費電力が低く、運用しやすく、セキュリティが仮想通貨の中でもトップクラスに高いと言われていることが特徴
+- プラットフォーム上でdeveloperがICOできる
+- 2021/3/17にカタパルト（大規模アップデート）が行われ、Symbolというプラットフォームが誕生した
+- [Symbol from NEM](https://jp.symbolplatform.com/)
 
 ## Ripple
 
@@ -99,10 +105,8 @@
 
 ## MobiCOIN
 
-# 国内事例
-
 # NFTマーケットプレイス
 
 # 参考URL
-- [state of the dapps](https//www.stateofthedapps.com/)
+- [state of the dapps](https://www.stateofthedapps.com/)
 - [国内のブロックチェーン スタートアップ](https://startup-db.com/tags/blockchain)
