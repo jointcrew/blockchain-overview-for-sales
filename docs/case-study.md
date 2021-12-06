@@ -1,4 +1,4 @@
-# ブロックチェーンプロジェクト
+# ブロックチェーンを活用したサービスの事例集
 
 ## Ethereum
 - [日本語 Wiki](https://github.com/ethereum/wiki/wiki/%5BJapanese%5D-Ethereum-TOC)
@@ -59,37 +59,53 @@
 - [Ginco](https://ginco.co.jp/company/): 仮想通貨ウォレット `Ginco`を提供。
 - [nanakusa](https://sbinft.co.jp/#company): NFTマーケットプレイス `nanakusa` を提供
 
-## NEM
+
+## Ethereum以外のプラットフォームおよびブロックチェーンプロジェクト
+### NEM
+- [Symbol from NEM](https://jp.symbolplatform.com/)
 - New Economy Movementは独自のブロックチェーンを持つP2Pプラットフォーム
 - Pol（Proof of Importance)によって合意形成をしている
 - ノードの消費電力が低く、運用しやすく、セキュリティが仮想通貨の中でもトップクラスに高いと言われていることが特徴
 - プラットフォーム上でdeveloperがICOできる
 - 2021/3/17にカタパルト（大規模アップデート）が行われ、Symbolというプラットフォームが誕生した
-- [Symbol from NEM](https://jp.symbolplatform.com/)
 
-## Ripple
+### Ripple
+- [Ripple](https://ripple.com/)
+- 主に銀行市場における国際金融取引のリアルタム性を確保するためのサービスを提供している
+- 合意形成を特定のノードに絞ることで合意形成にかかる時間を大幅に削減し、取引の即時性を提供している
 
-## EOSIS
+### EOSIO
+- イオス・アイオー
+- [eosio](https://eos.io/)
+- Dappsのためのプラットフォームを提供している
+  - Dappの開発、ホスティング、および実行がプラットフォーム上から可能
+	- ethereumより後発サービスだけあって、開発するための道具は色々揃っている印象（ethereumより少ないコード量でDappの開発ができそう）
+	- [eos vs ethereum](https://trading-education.com/is-eos-better-than-ethereum)
 
-## Zcache
 
-## BigchainDB
+### Zcash
+- [Zcash](https://z.cash/)
+- パブリックなブロックチェーンを利用しながら取引情報を保護する
+- ビットコインがhttpとするならば、Zcashはhttpsと言われる
 
-## IOTA
+### BigchainDB
+- [https://www.bigchaindb.com/](https://www.bigchaindb.com/)
 
-## Cosmos
+### IOTA
 
-## Tendermint
+### Cosmos
 
-## Polkadot
+### Tendermint
 
-## IPFS
+### Polkadot
 
-## Libra
+### IPFS
 
-## Steem
+### Libra
 
-## Factom
+### Steem
+
+### Factom
 
 ## Stellar
 
