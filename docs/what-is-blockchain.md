@@ -66,6 +66,12 @@
 ![スクリーンショット 2021-12-13 11 19 59](https://user-images.githubusercontent.com/29055497/145742481-fa6ed291-5f19-4c6c-a222-9b6f851d4177.png)
 
 
+### Dappsと通常のWebサービス構成の違い（その２）
+
+![スクリーンショット 2021-12-13 11 43 28](https://user-images.githubusercontent.com/29055497/145744245-f7ef0b6a-e5ab-4e4b-90d6-30f286ab9172.png)
+
+
+
 ### ブロックチェーンサービスの開発環境（ethereum)
 
 
